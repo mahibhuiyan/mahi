@@ -1,0 +1,207 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: 'Libre Franklin', sans-serif;
+}
+h1, h2, h3, h4, h5, h6,{
+    font-family: 'Libre Franklin', sans-serif ;
+}
+a, a:hover{
+    text-decoration: none;
+}
+/***************************************************
+       *****Main css code start here*******
+****************************************************/
+
+.header-section{
+	width: 100%;
+	padding: 15px 0px;
+	background: #fcdb00;
+}
+.header-section .menu-section{
+	width: 100%;
+	padding: 5px 0px 30px;
+
+}
+.header-section .menu-section .bg-light{
+	width: 100%; 
+	background: transparent !important;
+	
+}
+.header-section .menu-section .navbar-light .navbar-nav .nav-link {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+    margin-right: 50px;
+}
+.header-section .banner .banner-text{
+	width:  100%
+}
+.banner{
+	width: 100%;
+	padding: 30px 0px 60px
+}
+.banner .banner-text{
+	width: 100%;
+	padding: 50px 0px  
+}
+.banner .banner-text h1{
+	font-size: 38px;
+	font-weight: 700;
+	color: #010101;
+	margin-bottom: 22px
+}
+.banner .banner-text h4{
+	font-size: 28px;
+	font-weight:400;
+	color: #313841;
+	margin-bottom: 22px
+}
+.banner .banner-text p{
+	font-size: 19px;
+	line-height: 29px;
+	font-weight: 400;
+	color: #555555;
+	font-family: 'PT Sans', sans-serif;
+	margin-bottom: 45px
+}
+.feature{
+	width: 100%;
+	padding: 20px 0px;
+}
+.feature .title{
+	width: 100%;
+	padding: 60px 0px   ;
+	text-align: center;
+}
+.feature .title h1{
+	font-size: 34px;
+	font-weight: 600;
+	color: #313841;
+	font-family: 'PT Sans', sans-serif;
+}
+.feature .title p{
+	font-size: 22px;
+	font-weight: 400;
+	color: #313841;
+	font-family: 'PT Sans', sans-serif;
+}
+.feature .media .fa{
+	font-size: 50px;
+	font-weight: 700
+} 
+.feature .media .fa-tablet {
+    margin-left: 20px;
+}
+.feature .media .fa-lemon-o {
+    margin-left: 7px;
+}
+.feature .media .fa-bookmark-o {
+    margin-left: 10px;
+}
+.feature .media .media-body{
+	margin-left: 20px;
+	margin-bottom: 20px
+}
+.feature .media .media-body h5{
+    font-size: 22px;
+    font-weight: 700;
+    color: #101010
+}
+.feature .media .media-body p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #898989
+}
+.footer-section{
+	width: 100%;
+	padding: 20px 0px;
+	background: #010101;
+}
+.footer-section .footer-top .title{
+	width: 100%;
+	padding: 60px 0px   ;
+	text-align: center;
+}
+.footer-section .footer-top .title h1{
+	font-size: 34px;
+	font-weight: 600;
+	color: #fcdb00;
+	font-family: 'PT Sans', sans-serif;
+}
+.footer-section .footer-top .title p{
+	font-size: 22px;
+	font-weight: 400;
+	color: #898989;
+	font-family: 'PT Sans', sans-serif;
+}
+.footer-section .footer-top .form-inline{
+	width: 100%;
+	padding: 0px 40px
+}
+.footer-section .footer-top .form-group{
+	width: 80%
+}
+.footer-section .footer-top .form-group .form-control{
+	width: 100%;
+	height: auto !important;
+	padding: 10px
+}
+.footer-section .footer-top .form-inline .btn-primary {
+    padding: 10px 35px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #000;
+    background: #fcdb00;
+    border: 1px solid #fcdb00;
+}
+.footer-section .footer-top .social-icons{
+	width: 100%;
+	padding: 50px 0px;
+	display: block;
+	text-align: center;
+}
+.footer-section .footer-top .social-icons li{
+	display: inline-block;
+	list-style-type: none;
+}
+.footer-section .footer-top .social-icons li a {
+    text-align: center;
+    width: 20px;
+    font-size: 45px;
+    height: 20px;
+    line-height: 20px;
+    padding: 20px;
+    background: #000;
+    color: #fcdb00;
+    margin: 0px 8px;
+}
+.footer-section .main-footer{
+	width: 100%;
+	padding: 40px 0px;
+}
+.footer-section .main-footer .widget p{
+	font-size: 14px;
+	color: #fff
+}
+.footer-section .main-footer .widget ul{
+ 	display: block
+}
+.footer-section .main-footer .widget ul li{ 
+	list-style: none;
+}
+.footer-section .main-footer .widget ul li a{
+	font-size: 14px;
+	color: #fff
+}
+.footer-section .main-footer .widget ul li a:hover{ 
+	color: #fcdb00;
+	text-decoration: none;
+}
+/***************************************************
+       *****Main css code end here*******
+****************************************************/
